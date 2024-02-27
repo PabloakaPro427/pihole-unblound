@@ -14,6 +14,14 @@
 
 ###
 
+<h2 align="left">IMPORTANT!!!!!!!</h2>
+
+###
+
+<p align="left">After installation log in the pihole admin panel. Go to the "Settings" then DNS, uncheck every UPSTREAM DNS SERVER(LIKE GOOGLE, ETC.) ON THE LEFT SITE. Then check "Custom 1(IPv4)" and enter: 127.0.0.1#5335 </p>
+
+###
+
 <h2 align="left">Recomendations!</h2>
 
 ###
